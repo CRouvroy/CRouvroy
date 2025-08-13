@@ -9,7 +9,7 @@ I'm studying <em>Computer Sciences</em> at <a href="https://www.ens.psl.eu/">ENS
 
 From my internship at NTU, supervised by Prof. CONG Gao and PhD. SHI Jiachen.
 <ul>
-  <li>A <a href=".">What-If</a> for Column-oriented database. </li>
+  <li>The first <a href=".">What-If</a> for Column-oriented database. Soon online.</li>
 </ul>
 
 ### ENS Paris, PSL University, France
