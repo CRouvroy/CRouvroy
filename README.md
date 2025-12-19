@@ -12,6 +12,16 @@ From my internship at NTU, supervised by Prof. CONG Gao and PhD. SHI Jiachen.
   <li>First version of a <a href="https://github.com/CRouvroy/QHICS">What-If</a> for Column-oriented database.</li>
 </ul>
 
+### ENS Paris, IASD M2, France
+(project are made with other people from the M2, please check report of each project to know who worked on it).
+<ul>
+  <li> A <a href="https://github.com/CRouvroy/IASD/blob/main/S1/Data%20Extraction/PolyMarket%20pair-trading%20GDelt/Presentation/pres.pdf"> pair-trading dataset maker relating global opinion to polymarket price timeseries</a>.</li>
+<li> A <a href="https://github.com/CRouvroy/IASD/blob/main/S1/LLM/hw2_report.pdf">Word2Vec implementation in pytorch</a>.</li>
+<li> A <a href="https://github.com/CRouvroy/IASD/blob/main/S1/DataLab/1_GradePrediction/main.pdf">Kernel method for movie recommendation</a>.</li>
+<li> A <a href="https://github.com/CRouvroy/IASD/blob/main/S1/DataLab/2_GanTraining/report.pdf">GAN trained with multiple gaussian</a>.</li>
+<li>A <a href="https://github.com/CRouvroy/IASD/blob/main/S1/DataLab/3_RobustNetwork/slides.pdf">robust model that uses Canny Edge as a layer to counter-part gradient-based attack</a>.</li>
+</ul>
+
 ### ENS Paris, PSL University, France
 (projects are made with Nathan Boyer and Grégoire Le Corre, some only with Grégoire, some only with Nathan, some with both)
 <ul>
