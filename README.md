@@ -1,9 +1,15 @@
 <h1 align="center">Clément ROUVROY</h1>
 <div align="center">
 
-I'm studying <em>Computer Sciences</em> at <a href="https://www.ens.psl.eu/">ENS-PSL</a>.<br/>
+I'm a Research Assistant in the <a href="https://www.ifi.uzh.ch/en/dast.html">DaST</a> team of University of Zürich, where I'll start a PhD supervised by Prof. Dan Olteanu.
+<p align="center">
+  <img src="./dast-logo.2020-09-08-09-20-39.png" alt="Logo DAST" width="200" />
+</p>
+
 
 ## Projects on this GitHub
+
+I graduated from <a href="https://www.ens.psl.eu/">ENS-PSL</a>, and had the opportunity to do different internships and projects in my curriculum.
 
 ### Nanyang Technological University, Singapore
 
